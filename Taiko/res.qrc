@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>red.png</file>
+        <file>bg.jpg</file>
+        <file>yellow.png</file>
+        <file>bg3.jpg</file>
+        <file>rect.jpg</file>
+        <file>yellow2.png</file>
+        <file>bg4.jpg</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>drum.mp3</file>
+        <file>maple.mp3</file>
+    </qresource>
+</RCC>
